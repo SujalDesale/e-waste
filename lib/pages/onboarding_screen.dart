@@ -1,5 +1,6 @@
+import 'package:ewaste/pages/login_page.dart';
 import 'package:flutter/material.dart';
-import 'home_page.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class OnboardingScreen extends StatefulWidget {
   @override
@@ -19,6 +20,16 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     "Join our community and help protect the environment."
   ];
   final List<Color> colors = [Colors.green, Colors.blue, Colors.purple];
+
+  Future<void> _completeOnboarding() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('seenOnboarding', true); // Save onboarding status
+
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (context) => LoginPage()),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -79,10 +90,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               if (currentIndex < titles.length - 1) {
                 setState(() => currentIndex++);
               } else {
-                Navigator.pushReplacement(
-                  context,
-                  MaterialPageRoute(builder: (context) => HomePage()),
-                );
+                _completeOnboarding(); // Save status and navigate
               }
             },
             child: Text(currentIndex == titles.length - 1 ? "Get Started" : "Next"),

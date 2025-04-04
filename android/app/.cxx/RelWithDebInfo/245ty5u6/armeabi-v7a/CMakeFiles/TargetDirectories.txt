@@ -1,0 +1,2 @@
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/RelWithDebInfo/245ty5u6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/RelWithDebInfo/245ty5u6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

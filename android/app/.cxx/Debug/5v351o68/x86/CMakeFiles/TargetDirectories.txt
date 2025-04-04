@@ -1,0 +1,2 @@
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/Debug/5v351o68/x86/CMakeFiles/edit_cache.dir
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/Debug/5v351o68/x86/CMakeFiles/rebuild_cache.dir

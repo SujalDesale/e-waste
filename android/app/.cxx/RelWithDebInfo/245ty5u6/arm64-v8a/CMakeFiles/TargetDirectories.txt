@@ -1,0 +1,2 @@
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/RelWithDebInfo/245ty5u6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/TEJAS/AndroidStudioProjects/ewaste/android/app/.cxx/RelWithDebInfo/245ty5u6/arm64-v8a/CMakeFiles/rebuild_cache.dir

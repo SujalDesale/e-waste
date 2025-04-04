@@ -3,6 +3,10 @@
         android:label="ewaste"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCQGiaocwdPlwlCIGTWx40O1YO9ePAyz88" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

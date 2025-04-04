@@ -1,0 +1,12 @@
+smartwatch
+microwave
+laptop
+camera
+TV
+Mouses
+Mobile
+Keyboards
+Washing Machine
+Printer
+Player
+PCB
