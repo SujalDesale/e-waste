@@ -5,6 +5,7 @@ import 'package:tflite_flutter/tflite_flutter.dart';
 import 'package:image/image.dart' as img;
 import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter/services.dart';
 
 class EwasteDetectionPage extends StatefulWidget {
   @override
@@ -112,13 +113,20 @@ class _EwasteDetectionPageState extends State<EwasteDetectionPage> {
   }
 
   void _searchOnline(String query) async {
-    final url = Uri.parse("https://www.google.com/search?q=${Uri.encodeComponent(query)}");
+    final prompt = "$query disposal instructions";
+    final encodedPrompt = Uri.encodeComponent(prompt);
+
+    // Direct Google search URL
+    final url = Uri.parse("https://www.google.com/search?q=$encodedPrompt");
+
     if (await canLaunchUrl(url)) {
       await launchUrl(url, mode: LaunchMode.inAppBrowserView);
     } else {
-      print("❌ Could not launch search for $query");
+      print("❌ Could not launch Google search for $query");
     }
   }
+
+
 
   void showImageSourceSelection() {
     showModalBottomSheet(
