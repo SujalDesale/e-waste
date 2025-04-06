@@ -39,7 +39,9 @@ Below is the **flow diagram** for the Android E-Waste Recycling System:
 Image of the project:
 
 ![Project Screenshot](readme-images/Ewaste Snapshots-1.png)
-![](assests/login1.png)
+![E-Waste App Screenshot](readme-images/Ewaste%20Snapshots-1.png)
+
+
 
 ## Getting Started
 This project is built using **Flutter**.
