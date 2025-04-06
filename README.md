@@ -1,21 +1,44 @@
-<<<<<<< HEAD
-# e-waste-disposal-guide
-An AR-based, AI-powered e-waste disposal guide for sustainable recycling. Scan items, find nearby recycling centers, and track your impact. Reduce e-waste, protect the planet! 🌍💚
-=======
-# ewaste
+# E-Waste 
 
-A new Flutter project.
+📱 Project Introduction
+In response to the rising global e-waste crisis, our team developed a smart and sustainable mobile application during the GDG Hackathon, aimed at empowering users to responsibly manage electronic waste. Leveraging technologies like Teachable Machine, TensorFlow Lite, and Firebase, our app provides an AI-powered solution for identifying, learning about, and properly disposing of e-waste.
+
+## Features
+- ✅ **User Authentication** – Secure login/signup using Firebase
+- ✅ **AI-powered Scanner** – Detects e-waste items using Machine Learning
+- ✅ **Disposal Guide** – Information on proper disposal of e-waste categories
+- ✅ **Learning Resources** – Articles, videos, and tips on e-waste recycling
+- ✅ **Nearby Recycling Centers** – Locate proper disposal points using Google Maps
+- ✅ **Impact Tracker** – Monitor your contribution to sustainability
+- ✅ **Profile Dashboard** – Manage user profile, update information, and privacy settings
+- ✅ **User Authentication** – Secure login/signup using Firebase
+
+## Flow Diagram
+Below is the **flow diagram** for the Android E-Waste Recycling System:
+
+1. **App Start**
+   - Welcome Page with an introduction
+   - Get Started Button
+2. **Authentication**
+   - Login/Signup Page (Firebase authentication)
+   - Signup: Full name, email, phone number, city, password
+   - Login: Email and password
+3. **Home Page**
+   - Bottom Navigation with sections:
+     - **Disposal Guide**: Laptops, mobiles, batteries, and more
+     - **Learn**: Articles, videos, and recycling tips
+     - **Scanner**: Take/upload photos to detect e-waste items
+     - **Profile**: User profile with settings and information
+4. **Profile Dashboard**
+   - Profile Image and Details
+   - Update Profile Information
+   - Privacy Settings
+5. **Recycling Center Integration**
+   - Google Maps API to locate nearby recycling centers
 
 ## Getting Started
+This project is built using **Flutter**.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Install [Flutter](https://docs.flutter.dev/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 743705a (1.0.1)
