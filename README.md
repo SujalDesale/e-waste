@@ -68,7 +68,17 @@ Image of the project:
 ## 👥 Contributors
 
 <p align="center">
-  <a href="https://github.com/siddhesh-wagh">
+  <a href="https://github.com/SujalDesale">
+    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
+    <br />
+    <sub><b>Sujal Desale</b></sub>
+  </a>
+    <a href="https://github.com/tejasgunjal021">
+    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
+    <br />
+    <sub><b>Tejas Gunjal</b></sub>
+  </a>
+    <a href="https://github.com/siddhesh-wagh">
     <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
     <br />
     <sub><b>Siddhesh Wagh</b></sub>
