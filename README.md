@@ -69,19 +69,19 @@ Image of the project:
 
 <p align="center">
   <a href="https://github.com/SujalDesale">
-    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
-    <br />
+    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Sujal Desale"/>
     <sub><b>Sujal Desale</b></sub>
   </a>
-    <a href="https://github.com/tejasgunjal021">
-    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
-    <br />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tejasgunjal021">
+    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Tejas Gunjal"/>
     <sub><b>Tejas Gunjal</b></sub>
   </a>
-    <a href="https://github.com/siddhesh-wagh">
-    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh"/>
-    <br />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/siddhesh-wagh">
+    <img src="https://avatars.githubusercontent.com/u/79750938?v=4" width="100px;" alt="Siddhesh Wagh"/>
     <sub><b>Siddhesh Wagh</b></sub>
   </a>
 </p>
+
 
