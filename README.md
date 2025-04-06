@@ -9,7 +9,6 @@ In response to the rising global e-waste crisis, our team developed a smart and 
 - ✅ **Disposal Guide** – Information on proper disposal of e-waste categories
 - ✅ **Learning Resources** – Articles, videos, and tips on e-waste recycling
 - ✅ **Nearby Recycling Centers** – Locate proper disposal points using Google Maps
-- ✅ **Impact Tracker** – Monitor your contribution to sustainability
 - ✅ **Profile Dashboard** – Manage user profile, update information, and privacy settings
 - ✅ **User Authentication** – Secure login/signup using Firebase
 
