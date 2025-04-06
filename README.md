@@ -38,9 +38,12 @@ Below is the **flow diagram** for the Android E-Waste Recycling System:
   
 Image of the project:
 
-![E-Waste App Screenshot](readme-images/Ewaste%20Snapshots-1.png)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-1.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-1.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-2.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-3.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-4.png" width="400"/>
+   
 </p>
 
 
