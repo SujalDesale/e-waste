@@ -35,10 +35,61 @@ Below is the **flow diagram** for the Android E-Waste Recycling System:
    - Privacy Settings
 5. **Recycling Center Integration**
    - Google Maps API to locate nearby recycling centers
+  
+Image of the project:
 
-## Getting Started
-This project is built using **Flutter**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-1.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-2.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-3.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/siddhesh-wagh/e-waste/main/readme-images/Ewaste%20Snapshots-4.png" width="400"/>
+   
+</p>
 
-### Prerequisites
-- Install [Flutter](https://docs.flutter.dev/get-started/install)
+## 🔧 Technologies Used
+
+<p align="center">
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+### 🤖 Artificial Intelligence
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Teachable%20Machine-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
+
+### 🔗 Backend & Services
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+
+</p>
+
+## 👥 Contributors
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SujalDesale">
+        <img src="https://github.com/SujalDesale.png" width="100px;" style="border-radius:50%" alt="Sujal Desale"/>
+        <br />
+        <sub><b>Sujal Desale</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tejasgunjal021">
+        <img src="https://github.com/tejasgunjal021.png" width="100px;" style="border-radius:50%" alt="Tejas Gunjal"/>
+        <br />
+        <sub><b>Tejas Gunjal</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/siddhesh-wagh">
+        <img src="https://github.com/siddhesh-wagh.png" width="100px;" style="border-radius:50%" alt="Siddhesh Wagh"/>
+        <br />
+        <sub><b>Siddhesh Wagh</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
