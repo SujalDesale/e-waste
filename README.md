@@ -35,6 +35,11 @@ Below is the **flow diagram** for the Android E-Waste Recycling System:
    - Privacy Settings
 5. **Recycling Center Integration**
    - Google Maps API to locate nearby recycling centers
+  
+Image of the project:
+
+![Project Screenshot](readme-images/Ewaste Snapshots-1.png)
+![](assests/login1.png)
 
 ## Getting Started
 This project is built using **Flutter**.
