@@ -46,10 +46,23 @@ Image of the project:
    
 </p>
 
-🔧 Technologies Used
-   - **Flutter & Dart** – For building a creative, cross-platform, and interactive user interface.
-TensorFlow Lite – Enables on-device AI for real-time e-waste item classification.
-Firebase – Used for user authentication, data storage, and waste tracking in real-time.
-Google Maps API – Integrated to locate nearby certified e-waste recycling centers.
-Teachable Machine – Used to train custom machine learning models for identifying various types of e-waste.
-Gemini (by Google) – Provides intelligent, context-aware guidance and instructions for responsible disposal.
+## 🔧 Technologies Used
+
+<p align="center">
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+### 🤖 Artificial Intelligence
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Teachable%20Machine-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
+
+### 🔗 Backend & Services
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+
+</p>
+
+
