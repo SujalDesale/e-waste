@@ -46,12 +46,10 @@ Image of the project:
    
 </p>
 
-
-
-
-## Getting Started
-This project is built using **Flutter**.
-
-### Prerequisites
-- Install [Flutter](https://docs.flutter.dev/get-started/install)
-
+🔧 Technologies Used
+   - **Flutter & Dart** – For building a creative, cross-platform, and interactive user interface.
+TensorFlow Lite – Enables on-device AI for real-time e-waste item classification.
+Firebase – Used for user authentication, data storage, and waste tracking in real-time.
+Google Maps API – Integrated to locate nearby certified e-waste recycling centers.
+Teachable Machine – Used to train custom machine learning models for identifying various types of e-waste.
+Gemini (by Google) – Provides intelligent, context-aware guidance and instructions for responsible disposal.
